@@ -1,0 +1,20 @@
+{
+  "name": "Another",
+  "version": "0.0.0",
+  "description": "Nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nothing"
+  ],
+  "author": "Abin Thaha",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-rename": "~1.2.2",
+    "underscore": "~1.8.3"
+  }
+}
